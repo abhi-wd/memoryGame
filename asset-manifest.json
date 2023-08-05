@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memoryGame/static/css/main.b157dbb3.css",
+    "main.js": "/memoryGame/static/js/main.0eca84a9.js",
+    "static/media/scaryNight.png": "/memoryGame/static/media/scaryNight.50fe5932985168ac6d8e.png",
+    "static/media/pumpkin.jpg": "/memoryGame/static/media/pumpkin.84575205c61f5f80fe40.jpg",
+    "static/media/ghost.jpg": "/memoryGame/static/media/ghost.f8b9daec54e61270147b.jpg",
+    "static/media/scaryForest.jpg": "/memoryGame/static/media/scaryForest.571d7105861f9ff45855.jpg",
+    "static/media/skull.jpg": "/memoryGame/static/media/skull.47fd231e0a0bd2222525.jpg",
+    "static/media/wolf.jpeg": "/memoryGame/static/media/wolf.37013c7aed7341f22388.jpeg",
+    "static/media/hauntedHouse.jpg": "/memoryGame/static/media/hauntedHouse.6096d7ac66b7b0b0e77b.jpg",
+    "static/media/witch.webp": "/memoryGame/static/media/witch.1b7c5f1550f731a4819a.webp",
+    "static/media/magicBroom.jpg": "/memoryGame/static/media/magicBroom.1c33a68af4d5a2d9c8c2.jpg",
+    "static/media/cover.jpg": "/memoryGame/static/media/cover.17bd9228b517db5fc989.jpg",
+    "index.html": "/memoryGame/index.html",
+    "main.b157dbb3.css.map": "/memoryGame/static/css/main.b157dbb3.css.map",
+    "main.0eca84a9.js.map": "/memoryGame/static/js/main.0eca84a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b157dbb3.css",
+    "static/js/main.0eca84a9.js"
+  ]
+}
