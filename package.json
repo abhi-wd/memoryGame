@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Anushak66.github.io/magic_memory_app",
+  "homepage": "https://abhi-wd.github.io/memoryGame",
   "name": "magic-memory",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
